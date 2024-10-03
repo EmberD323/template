@@ -13,3 +13,7 @@ deploy correct page:
 4) git add dist -f && git commit -m "Deployment commit"
 npm deploy
 git checkout main
+
+set up .gitignore with:
+node_modules
+dist
