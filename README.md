@@ -11,8 +11,8 @@ deploy correct page:
 2) git checkout gh-pages && git merge main --no-edit
 3) npx webpack
 4) git add dist -f && git commit -m "Deployment commit"
-npm deploy
-git checkout main
+5) npm deploy
+6) git checkout main
 
 set up .gitignore with:
 node_modules
