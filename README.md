@@ -5,6 +5,8 @@ terminal scripts:
 npm run dev - webpack serve i.e will host web page on http://localhost:8080/
 npm build - webpack i.e bundle
 npm deploy - "git subtree push --prefix dist origin gh-pages" i.e change git page
+npm run jest
+watch: for saving all js - change file name if required
 
 deploy correct page:
 1) git branch gh-pages
