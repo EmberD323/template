@@ -17,3 +17,5 @@ deploy correct page:
 set up .gitignore with:
 node_modules
 dist
+
+
